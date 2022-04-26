@@ -1,0 +1,193 @@
+#titulo {
+    position: static;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Orelega One' 'cursive';
+    text-shadow: 4px 4px 3.4px #666;
+    color: #000;
+    background-color: white;
+} 
+
+#titulo:hover {
+    color: #eee;
+    text-shadow: 5px 5px 3.4px #000;
+}
+
+.man {
+    position:absolute;
+    left: 20px;
+    top: 15px;
+}
+
+.parrafo { 
+    text-shadow: 2px 2.5px 3.4px #000;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    ;
+}
+
+.parrafo, .dos { 
+    font-size: 24px;
+    text-shadow: 4px 4px 5px #000;
+    color: #fff;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 190px;
+    margin-right: 190px;
+}
+
+.dos {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 70px;
+    margin-top: 20px;
+}
+
+body {
+    background-image: url("img/epa.jpg");
+    background-position: center;
+    background-size:  100%;
+    background-attachment: fixed;
+}
+
+.plus {
+    font-size: 45px;
+    margin-bottom: 25px;
+    font-weight: lighter;
+}
+
+.del {
+    font-size: 33px;
+    margin-bottom: 5px;
+    margin-top: 100px;
+    font-weight: lighter;
+}
+
+.clima {
+    background-image: url(img/clima.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 5px;
+    padding-top: 0.1px;
+    font-size: 20px;
+    font-style: oblique;
+    text-shadow: 3px 3px 5px #000;
+    color: #fff;
+}
+
+.club {
+    background-color:  rgba(90, 76, 76, 0.575);
+    border-style: double;
+    border-color: #222;
+    font-size: larger;
+    text-shadow: 3px 3px 5px #000;
+    color: #fff;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.club:hover {
+    background-color:  rgba(010, 010, 010, 0.6);
+    border-color: #000;
+}
+
+.final {
+    margin: 100px;
+    color: aliceblue;
+    text-shadow: 1.3px 1.9px 3.4px #223;
+    text-align: center;
+    font-size: 25px;
+    background-image: url("img/equipo68.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: #000;
+}
+
+.idavuelta {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div h3 {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.titel {
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    width: auto;
+}
+
+.primera {
+    padding-left: left;
+    text-shadow: 1.3px 1.9px 3.4px #233;
+}
+
+
+.segunda {
+    padding-right: right;
+    text-shadow: 1.3px 1.9px 3.4px #223;
+}
+
+.ubi {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 44px;
+    font-style: normal;
+    text-shadow: 2px 2.5px 3.4px #000;
+    color: #eee;
+    
+}
+
+.ubi:hover {
+    color: #222;
+    text-shadow: 2px 2.5px 3.4px #fff;
+}
+
+
+
+.ubik {
+    background-image: url(img/fondo2.jpg);
+    border-color: #000;
+    border-width: 1px 1px;
+    border-style:groove;
+    margin-top: 60px;
+    padding-bottom: 10px;
+    margin-right: 493.9px;
+    margin-left: 480.4px;
+}
+
+
+* {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.aqui {
+    color: #ff0000;
+}
+
+.aqui:hover {
+    color: #fff;
+}
+
+.foto {
+    border-color: black;
+    border-width: 2px 2px;
+    border-style: dashed;
+}
+
+
+.traf {
+    margin-top: 50px;
+}
